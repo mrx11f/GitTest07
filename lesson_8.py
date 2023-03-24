@@ -21,10 +21,10 @@
 
 ############################################
 
-from main import choice_name
-from moduls import lst_names
+# from main import choice_name
+# from moduls import lst_names
 
-print(choice_name(lst_names))
+# print(choice_name(lst_names))
 
 # Работа с файлами
 # f = open('python.txt', 'w')
@@ -98,3 +98,5 @@ print(choice_name(lst_names))
 # py_r = open('lesson_8.py')
 # print(py_r.read())
 # py_r.close()
+
+print("Geeks Hello")
